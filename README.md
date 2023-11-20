@@ -1,4 +1,4 @@
-# [damhwa](http://kkms4001.iptime.org:10141)
+# [damhwa](http://13.125.14.153/damhwa/)
 
 ## [Front-End](https://github.com/V3r1745/damhwa_front.git)
 ## [Django](https://github.com/V3r1745/damhwa_django.git)
